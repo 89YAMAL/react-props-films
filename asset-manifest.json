@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-props-films/static/css/main.b6981d81.css",
+    "main.js": "/react-props-films/static/js/main.89b3a06e.js",
+    "static/js/787.a1751098.chunk.js": "/react-props-films/static/js/787.a1751098.chunk.js",
+    "index.html": "/react-props-films/index.html",
+    "main.b6981d81.css.map": "/react-props-films/static/css/main.b6981d81.css.map",
+    "main.89b3a06e.js.map": "/react-props-films/static/js/main.89b3a06e.js.map",
+    "787.a1751098.chunk.js.map": "/react-props-films/static/js/787.a1751098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6981d81.css",
+    "static/js/main.89b3a06e.js"
+  ]
+}
